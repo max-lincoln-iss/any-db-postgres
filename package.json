@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:max-lincoln-iss/any-db-postgres.git"
+    "url": "git+https://github.com/max-lincoln-iss/any-db-postgres.git"
   },
   "keywords": [
     "any-db",
